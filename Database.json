@@ -1,25 +1,11 @@
 {"albums":[
     {
         "id":1,
-        "movie":"sankranthiki vustunam",
-        "singername":"ramana gogula",
-        "url":"Godari Gattu.mp3"
-    }   ,{
-        "id":2,
-        "movie":"court",
-        "singername":"Vijay Bulganin",
-        "url":"Premalo.mp3"
-    },{
-        "id":3,
-        "movie":"orange",
-        "singername":"karthik",
-        "url":"Chilipiga.mp3"
-    },
-    {
-        "id":4,
-        "movie":"orange",
-        "singername":"karthik",
-        "url":"Chilipiga.mp3"
-    }
+        "movie":"bachelor",
+        "song":"",
+        "singername":"https://github.com/Shivarajj27/Project-JS/raw/refs/heads/main/Asset/Adiye%20Bachelor%20128%20Kbps.mp3",
+        "url":""
+        
+    }   
 ]
 }
