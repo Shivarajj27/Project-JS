@@ -1,0 +1,25 @@
+{"albums":[
+    {
+        "id":1,
+        "movie":"sankranthiki vustunam",
+        "singername":"ramana gogula",
+        "url":"Godari Gattu.mp3"
+    }   ,{
+        "id":2,
+        "movie":"court",
+        "singername":"Vijay Bulganin",
+        "url":"Premalo.mp3"
+    },{
+        "id":3,
+        "movie":"orange",
+        "singername":"karthik",
+        "url":"Chilipiga.mp3"
+    },
+    {
+        "id":4,
+        "movie":"orange",
+        "singername":"karthik",
+        "url":"Chilipiga.mp3"
+    }
+]
+}
