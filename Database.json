@@ -2,10 +2,18 @@
     {
         "id":1,
         "movie":"bachelor",
-        "song":"",
-        "singername":"https://github.com/Shivarajj27/Project-JS/raw/refs/heads/main/Asset/Adiye%20Bachelor%20128%20Kbps.mp3",
-        "url":""
-        
-    }   
+        "songname":"adiye",
+        "artist":"Dhibu Ninan Thomas",
+        "url":"https://github.com/Shivarajj27/Project-JS/raw/refs/heads/main/Asset/Adiye%20Bachelor%20128%20Kbps.mp3",
+        "image":"https://github.com/Shivarajj27/Project-JS/blob/main/img/bachelor.jpg?raw=true"
+    } ,
+    {
+        "id":2,
+        "movie":"private song",
+        "songname":"uyire",
+        "artist":"Ankit menon",
+        "url":"https://github.com/Shivarajj27/Project-JS/raw/refs/heads/main/Asset/Uyirey.mp3",
+        "image":"https://github.com/Shivarajj27/Project-JS/blob/main/img/bachelor.jpg?raw=true"
+    }  
 ]
 }
